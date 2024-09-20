@@ -9,6 +9,7 @@
   "author": "Ntombi Hontyo",
   "license": "ISC",
   "dependencies": {
-    "cse-341-project1": "file:"
+    "cse-341-project1": "file:",
+    "express": "^4.21.0"
   }
 }
