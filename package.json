@@ -10,9 +10,12 @@
   "author": "Ntombi Hontyo",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "cse-341-project1": "file:",
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
-    "mongodb": "^6.9.0"
+    "mongodb": "^6.9.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
   }
 }
